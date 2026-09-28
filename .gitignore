@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.vscode/
+.venv/
+venv/
+~$*.docx
+.DS_Store
+metrics.json
